@@ -1,3 +1,9 @@
+# Flash-Chat Project Application
+
+This project is based on the L&D course brought to you by The App Brewery.
+
+This is the completion of the chat application supported by Firebase.
+
 ![App Brewery Banner](Documentation/AppBreweryBanner.png)
 
 # Flash-Chat
